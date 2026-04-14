@@ -11,10 +11,10 @@ This project analyzes an image and rebuilds it using Minecraft blocks based on c
 Original image → Rebuilt using Minecraft blocks
 
 ### Before
-<img src="examples/example1.png" width="45%">
+<img src="minecraft-image-converter/examples/example1.png" width="45%">
 
 ### After
-<img src="examples/example2.png" width="45%">
+<img src="minecraft-image-converter/examples/example2.png" width="45%">
 
 ---
 
